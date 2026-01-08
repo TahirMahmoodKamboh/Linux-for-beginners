@@ -4,7 +4,7 @@
 
 ## 🔙 Navigation
 ⬅️ **Previous:** [19 – Common Linux Mistakes](19-common-linux-mistakes.md)  
-➡️ **Next:** [21 – Mini Projects](21-mini-projects.md)
+➡️ **Next:** [21 – Mini Projects](21-mini-project-01.md)
 
 ---
 
