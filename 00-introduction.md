@@ -1,6 +1,6 @@
 ## 🔙 Navigation
-⬅️ Previous: [PREVIOUS_FILE](000-contents.md)  
-➡️ Next: [NEXT_FILE](01-what-is-linux.md)
+⬅️ Previous: [Contents](00-contents.md)  
+➡️ Next: [01 - What is Linux](01-what-is-linux.md)
 
 ---
 # 00 – Introduction to Linux
