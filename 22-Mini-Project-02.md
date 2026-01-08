@@ -4,7 +4,7 @@
 
 ## 🔙 Navigation
 ⬅️ **Previous:** [21 – Mini Project 01](21-Mini-Project-01.md)  
-➡️ **Next:** [23 – Mini Project 01](23-Mini-Project-03.md)
+➡️ **Next:** [23 – Mini Project 03](23-Mini-Project-03.md)
 
 ---
 
