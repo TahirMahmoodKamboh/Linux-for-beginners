@@ -69,3 +69,8 @@ If you are new to Linux, start from **00** and move step by step.
 Do **not skip practice and mini projects**.
 
 Happy Learning 🐧🚀
+
+## 🚀 What’s Next?
+
+Next lesson:
+👉 **[00 – Introduction ](00-introduction.md)**
