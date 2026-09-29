@@ -112,6 +112,9 @@ Why?
 5. Start VM and install Ubuntu
 6. Login and start learning
 
+# Useful Link
+https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview
+
 📌 Detailed steps will be shown in next lessons.
 
 ---
