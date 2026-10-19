@@ -493,11 +493,16 @@ D) All above
 
 ### Chapter 12 – Networking Basics
 
-56. Command to view network interfaces: 
-    A) ifconfig 
-    B) ip addr 
-    C) nmcli 
-    D) All above 
+56. Command to view network interfaces:
+
+    A) ifconfig
+    
+    B) ip addr
+    
+    C) nmcli
+    
+    D) All above
+    
 
 ✅ **Answer:** D 
 
