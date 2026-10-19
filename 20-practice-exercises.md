@@ -506,377 +506,634 @@ D) All above
 
 ✅ **Answer:** D 
 
-57. Command to test connectivity to a host: 
-    A) ping hostname 
+57. Command to test connectivity to a host:
+
+    A) ping hostname
+
     B) traceroute hostname 
-    C) curl hostname 
-    D) dig hostname 
+
+    C) curl hostname
+    
+    D) dig hostname
+    
 
 ✅ **Answer:** A 
 
-58. Command to view routing table: 
-    A) route 
-    B) netstat -r 
-    C) ip route 
-    D) All above 
+
+58. Command to view routing table:
+    
+    A) route
+    
+    B) netstat -r
+    
+    C) ip route
+    
+    D) All above
+    
 
 ✅ **Answer:** D
 
-59. Command to display DNS info: 
-    A) nslookup 
-    B) dig 
-    C) host 
-    D) All above 
+
+59. Command to display DNS info:
+    
+    A) nslookup
+    
+    B) dig
+    
+    C) host
+    
+    D) All above
+    
 
 ✅ **Answer:** D 
 
-60. Command to check open ports: 
-    A) netstat -tuln 
-    B) ss -tuln 
-    C) lsof -i 
-    D) All above 
+
+60. Command to check open ports:
+    
+    A) netstat -tuln
+    
+    B) ss -tuln
+    
+    C) lsof -i
+    
+    D) All above
+    
 
 ✅ **Answer:** D 
+
 
 ---
 
 ### Chapter 13 – Archives and Compression 
 
-61. Command to compress a file using gzip: 
-    A) gzip file.txt 
-    B) tar file.txt 
-    C) zip file.txt 
-    D) unzip file.txt 
+61. Command to compress a file using gzip:
+    
+    A) gzip file.txt
+    
+    B) tar file.txt
+    
+    C) zip file.txt
+    
+    D) unzip file.txt
+    
 
 ✅ **Answer:** A 
 
-62. Command to extract a `.tar.gz` file: 
-    A) tar -xzf file.tar.gz 
-    B) tar -czf file.tar.gz 
-    C) unzip file.tar.gz 
-    D) gunzip file.tar.gz 
+
+62. Command to extract a `.tar.gz` file:
+    
+    A) tar -xzf file.tar.gz
+    
+    B) tar -czf file.tar.gz
+    
+    C) unzip file.tar.gz
+    
+    D) gunzip file.tar.gz
+    
 
 ✅ **Answer:** A 
 
-63. Command to create a `.tar` archive: 
-    A) tar -cf archive.tar files 
-    B) tar -xf archive.tar 
-    C) gzip archive.tar 
-    D) unzip archive.tar 
+
+63. Command to create a `.tar` archive:
+    
+    A) tar -cf archive.tar files
+    
+    B) tar -xf archive.tar
+    
+    C) gzip archive.tar
+    
+    D) unzip archive.tar
+    
 
 ✅ **Answer:** A 
 
-64. Command to compress multiple files with zip: 
-    A) zip archive.zip file1 file2 
-    B) gzip archive.zip 
-    C) tar -czf archive.zip file1 file2 
-    D) unzip archive.zip 
+
+64. Command to compress multiple files with zip:
+    
+    A) zip archive.zip file1 file2
+    
+    B) gzip archive.zip
+    
+    C) tar -czf archive.zip file1 file2
+    
+    D) unzip archive.zip
+    
 
 ✅ **Answer:** A 
 
-65. Command to list contents of a tar archive: 
-    A) tar -tf archive.tar 
-    B) tar -cf archive.tar 
-    C) tar -xvf archive.tar 
-    D) gzip -l archive.tar 
+
+65. Command to list contents of a tar archive:
+    
+    A) tar -tf archive.tar
+    
+    B) tar -cf archive.tar
+    
+    C) tar -xvf archive.tar
+    
+    D) gzip -l archive.tar
+    
 
 ✅ **Answer:** A 
+
 
 ---
 
 ### Chapter 14 – Editors: Nano & Vim 
 
-66. Key to save file in Nano: 
-    A) Ctrl + X 
-    B) Ctrl + O 
-    C) Ctrl + S 
-    D) Ctrl + C 
+66. Key to save file in Nano:
+    
+    A) Ctrl + X
+    
+    B) Ctrl + O
+    
+    C) Ctrl + S
+    
+    D) Ctrl + C
+    
 
 ✅ **Answer:** B 
 
-67. Key to exit Nano: 
-    A) Ctrl + X 
-    B) Ctrl + O 
-    C) Esc 
-    D) :q 
+
+67. Key to exit Nano:
+    
+    A) Ctrl + X
+    
+    B) Ctrl + O
+    
+    C) Esc
+    
+    D) :q
+    
 
 ✅ **Answer:** A 
 
-68. Command to open a file in Vim: 
-    A) nano file.txt 
-    B) vim file.txt 
-    C) cat file.txt 
-    D) vi file.txt 
+
+68. Command to open a file in Vim:
+    
+    A) nano file.txt
+    
+    B) vim file.txt
+    
+    C) cat file.txt
+    
+    D) vi file.txt
+    
 
 ✅ **Answer:** B 
 
-69. Mode to type text in Vim: 
-    A) Normal mode 
-    B) Insert mode 
-    C) Command mode 
-    D) Visual mode 
+
+69. Mode to type text in Vim:
+    
+    A) Normal mode
+    
+    B) Insert mode
+    
+    C) Command mode
+    
+    D) Visual mode
+    
 
 ✅ **Answer:** B 
 
-70. Command to save and quit in Vim: 
-    A) :w 
-    B) :q 
-    C) :wq 
-    D) :x 
+
+70. Command to save and quit in Vim:
+    
+    A) :w
+    
+    B) :q
+    
+    C) :wq
+    
+    D) :x
+    
 
 ✅ **Answer:** C 
+
 
 ---
 
 ### Chapter 15 – Basic Shell Scripting 
 
-71. First line of a Bash script is called: 
-    A) Header 
-    B) Shebang 
-    C) Comment 
-    D) Script name 
+71. First line of a Bash script is called:
+    
+    A) Header
+    
+    B) Shebang
+    
+    C) Comment
+    
+    D) Script name
+    
 
 ✅ **Answer:** B 
 
-72. Command to make a script executable: 
-    A) chmod +x script.sh 
-    B) ./script.sh 
-    C) bash script.sh 
-    D) ls script.sh 
+
+72. Command to make a script executable:
+    
+    A) chmod +x script.sh
+    
+    B) ./script.sh
+    
+    C) bash script.sh
+    
+    D) ls script.sh
+    
 
 ✅ **Answer:** A 
 
-73. Access a variable in a script: 
-    A) var 
-    B) $var 
-    C) ${var} 
-    D) Both B and C 
+
+73. Access a variable in a script:
+    
+    A) var
+    
+    B) $var
+    
+    C) ${var}
+    
+    D) Both B and C
+    
 
 ✅ **Answer:** D 
 
-74. Command to run a script: 
-    A) ./script.sh 
-    B) bash script.sh 
-    C) sh script.sh 
-    D) All above 
+
+74. Command to run a script:
+    
+    A) ./script.sh
+    
+    B) bash script.sh
+    
+    C) sh script.sh
+    
+    D) All above
+    
 
 ✅ **Answer:** D 
 
-75. Conditional statement in Bash starts with: 
-    A) if [ condition ]; then 
-    B) for 
-    C) while 
-    D) case 
+
+75. Conditional statement in Bash starts with:
+    
+    A) if [ condition ]; then
+    
+    B) for
+    
+    C) while
+    
+    D) case
+    
 
 ✅ **Answer:** A 
+
 
 ---
 
 ### Chapter 16 – Environment Variables 
 
-76. Command to view all environment variables: 
-    A) printenv 
-    B) env 
-    C) echo $PATH 
-    D) Both A and B 
+
+76. Command to view all environment variables:
+    
+    A) printenv
+    
+    B) env
+    
+    C) echo $PATH
+    
+    D) Both A and B
+    
 
 ✅ **Answer:** D 
 
-77. Command to delete a variable: 
-    A) unset VAR 
-    B) export VAR 
-    C) echo $VAR 
-    D) env VAR 
+
+77. Command to delete a variable:
+    
+    A) unset VAR
+    
+    B) export VAR
+    
+    C) echo $VAR
+    
+    D) env VAR
+    
 
 ✅ **Answer:** A 
 
-78. Command to make a variable available to child processes: 
-    A) export VAR=value 
-    B) unset VAR 
-    C) echo $VAR 
-    D) set VAR 
+
+78. Command to make a variable available to child processes:
+    
+    A) export VAR=value
+    
+    B) unset VAR
+    
+    C) echo $VAR
+    
+    D) set VAR
+    
 
 ✅ **Answer:** A 
 
-79. Environment variable for home directory: 
-    A) $HOME 
-    B) $USER 
-    C) $PATH 
-    D) $PWD 
+
+79. Environment variable for home directory:
+    
+    A) $HOME
+    
+    B) $USER
+    
+    C) $PATH
+    
+    D) $PWD
+    
 
 ✅ **Answer:** A 
 
-80. Command to check the PATH variable: 
-    A) echo $PATH 
-    B) printenv PATH 
-    C) env | grep PATH 
-    D) All above 
+
+80. Command to check the PATH variable:
+    
+    A) echo $PATH
+    
+    B) printenv PATH
+    
+    C) env | grep PATH
+    
+    D) All above
+    
 
 ✅ **Answer:** D 
+
 
 ---
 
 ### Chapter 17 – Logs and Monitoring 
 
-81. Primary directory for Linux logs: 
-    A) /etc 
-    B) /var/log 
-    C) /home 
-    D) /tmp 
+81. Primary directory for Linux logs:
+    
+    A) /etc
+    
+    B) /var/log
+    
+    C) /home
+    
+    D) /tmp
+    
 
 ✅ **Answer:** B 
 
-82. Command to view real-time log updates: 
-    A) tail -f /var/log/syslog 
-    B) cat /var/log/syslog 
-    C) less /var/log/syslog 
-    D) head /var/log/syslog 
+
+82. Command to view real-time log updates:
+    
+    A) tail -f /var/log/syslog
+    
+    B) cat /var/log/syslog
+    
+    C) less /var/log/syslog
+    
+    D) head /var/log/syslog
+    
 
 ✅ **Answer:** A 
 
-83. Command to view systemd logs: 
-    A) journalctl 
-    B) dmesg 
-    C) top 
-    D) free 
+
+83. Command to view systemd logs:
+    
+    A) journalctl
+    
+    B) dmesg
+    
+    C) top
+    
+    D) free
+    
 
 ✅ **Answer:** A 
 
-84. Command to monitor CPU and memory in real-time: 
-    A) top 
-    B) ps 
-    C) free 
-    D) df 
+
+84. Command to monitor CPU and memory in real-time:
+    
+    A) top
+    
+    B) ps
+    
+    C) free
+    
+    D) df
+    
 
 ✅ **Answer:** A 
 
-85. Command to view kernel messages: 
-    A) dmesg 
-    B) cat /var/log/kern.log 
-    C) journalctl -k 
-    D) All above 
+
+85. Command to view kernel messages:
+    
+    A) dmesg
+    
+    B) cat /var/log/kern.log
+    
+    C) journalctl -k
+    
+    D) All above
+    
 
 ✅ **Answer:** D 
+
 
 ---
 
 ### Chapter 18 – Linux Directory Structure 
 
-86. Root directory in Linux: 
-    A) /root 
-    B) /home 
-    C) / 
-    D) /usr 
+86. Root directory in Linux:
+    
+    A) /root
+    
+    B) /home
+    
+    C) /
+    
+    D) /usr
+    
 
 ✅ **Answer:** C 
 
-87. Directory for user programs: 
-    A) /usr/bin 
-    B) /bin 
-    C) /sbin 
-    D) /etc 
+
+87. Directory for user programs:
+    
+    A) /usr/bin
+    
+    B) /bin
+    
+    C) /sbin
+    
+    D) /etc
+    
 
 ✅ **Answer:** A 
 
-88. Home directory for normal users: 
-    A) /root 
-    B) /home 
-    C) /usr 
-    D) /var 
+
+88. Home directory for normal users:
+    
+    A) /root
+    
+    B) /home
+    
+    C) /usr
+    
+    D) /var
+    
 
 ✅ **Answer:** B 
 
-89. Directory for temporary files: 
-    A) /var 
-    B) /tmp 
-    C) /opt 
-    D) /usr/local 
+
+89. Directory for temporary files:
+    
+    A) /var
+    
+    B) /tmp
+    
+    C) /opt
+    
+    D) /usr/local
+    
 
 ✅ **Answer:** B 
 
-90. Directory for configuration files: 
-    A) /etc 
-    B) /var 
-    C) /usr 
-    D) /home 
+
+90. Directory for configuration files:
+    
+    A) /etc
+    
+    B) /var
+    
+    C) /usr
+    
+    D) /home
+    
 
 ✅ **Answer:** A 
+
 
 ---
 
 ### Chapter 19 – Common Linux Mistakes 
 
-91. Mistake: Using `sudo` for every command unnecessarily. True or False? 
-    A) True 
-    B) False 
+91. Mistake: Using `sudo` for every command unnecessarily. True or False?
+    
+    A) True
+    
+    B) False
+    
 
 ✅ **Answer:** A 
 
-92. Safe practice before editing system files: 
-    A) Backup the file 
-    B) Edit directly 
-    C) Delete the file 
-    D) Ignore warnings 
+
+92. Safe practice before editing system files:
+    
+    A) Backup the file
+    
+    B) Edit directly
+    
+    C) Delete the file
+    
+    D) Ignore warnings
+    
 
 ✅ **Answer:** A 
 
-93. Dangerous command for deletion: 
-    A) rm -rf / 
-    B) rm -rf /tmp 
-    C) rm file.txt 
-    D) rm -i file.txt 
+
+93. Dangerous command for deletion:
+    
+    A) rm -rf /
+    
+    B) rm -rf /tmp
+    
+    C) rm file.txt
+    
+    D) rm -i file.txt
+    
 
 ✅ **Answer:** A 
 
-94. Command to review past commands: 
-    A) history 
-    B) tail 
-    C) grep 
-    D) ps 
+
+94. Command to review past commands:
+    
+    A) history
+    
+    B) tail
+    
+    C) grep
+    
+    D) ps
+    
 
 ✅ **Answer:** A 
 
-95. Key for auto-completion in terminal: 
-    A) Esc 
-    B) Tab 
-    C) Ctrl + C 
-    D) Enter 
+
+95. Key for auto-completion in terminal:
+    
+    A) Esc
+    
+    B) Tab
+    
+    C) Ctrl + C
+    
+    D) Enter
+    
 
 ✅ **Answer:** B 
 
-96. Logs should be checked: 
-    A) Only when system crashes 
-    B) Regularly 
-    C) Never 
-    D) Only for new files 
+
+96. Logs should be checked:
+    
+    A) Only when system crashes
+    
+    B) Regularly
+    
+    C) Never
+    
+    D) Only for new files
+    
 
 ✅ **Answer:** B 
 
-97. Mistake: Ignoring file permissions. True or False? 
-    A) True 
-    B) False 
+
+97. Mistake: Ignoring file permissions. True or False?
+    
+    A) True
+    
+    B) False
+    
 
 ✅ **Answer:** A 
 
-98. Mistake: Editing `/etc/passwd` without backup. True or False? 
-    A) True 
-    B) False 
+
+98. Mistake: Editing `/etc/passwd` without backup. True or False?
+    
+    A) True
+    
+    B) False
+    
 
 ✅ **Answer:** A 
 
-99. Mistake: Storing permanent files in `/tmp`. True or False? 
-    A) True 
-    B) False 
+
+99. Mistake: Storing permanent files in `/tmp`. True or False?
+     
+    A) True
+    
+    B) False
+    
 
 ✅ **Answer:** A 
 
-100. Best practice when learning Linux: 
-     A) Experiment safely, read logs, use man pages 
-     B) Run dangerous commands without checking 
-     C) Ignore permissions and ownership 
-     D) Only use GUI, never CLI 
+
+100. Best practice when learning Linux:
+     
+     A) Experiment safely, read logs, use man pages
+     
+     B) Run dangerous commands without checking
+     
+     C) Ignore permissions and ownership
+     
+     D) Only use GUI, never CLI
+     
 
 ✅ **Answer:** A 
+
 
 ---
 
